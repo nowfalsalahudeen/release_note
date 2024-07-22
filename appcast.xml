@@ -20,14 +20,14 @@
                 type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 1.2.49.0</title>
+            <title>Version 1.2.51.0</title>
             <sparkle:releaseNotesLink>
                 https://raw.githubusercontent.com/nowfalsalahudeen/release_note/main/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 22 Juy 2024 12:00:00 +0800</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/nowfalsalahudeen/release_note/main/edr_pos_userapp_flutter-1.2.50%2B50-windows-setup.exe"
-                sparkle:dsaSignature="MD0CHQCELDcphO7l/UN+qGhy1AIHfC+aJnJSlH4rtYPGAhxR5mEHWhkJQJbbJUYvRm7NF6jmxummjwBSyY4F"
-                sparkle:version="1.2.50+50"
+            <enclosure url="https://raw.githubusercontent.com/nowfalsalahudeen/release_note/main/edr_pos_userapp_flutter-1.2.51%2B51-windows-setup.exe"
+                sparkle:dsaSignature="MD0CHBPdluStsNNCZ2iKPvUwphKPs8U67PD1PdZeWB8CHQClfWu1Ae3bLQU+mE0/kD3vYZmuL3ltoT+ShFZ9"
+                sparkle:version="1.2.51+51"
                 sparkle:os="windows"
                 length="0"
                 type="application/octet-stream" />
